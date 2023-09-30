@@ -1,0 +1,10 @@
+   Namaste React Episode:1
+   
+   1. What is CDN?
+       -> Content Delivery Network
+   2. What is cross origin?
+   
+   
+   
+   
+   const heading = React.createElement("h1",{},"Hello World");

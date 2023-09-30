@@ -3,8 +3,16 @@
    1. What is CDN?
        -> Content Delivery Network
    2. What is cross origin?
-   
-   
-   
-   
    const heading = React.createElement("h1",{},"Hello World");
+
+
+   Branch Details:
+
+   git init
+   git branch -M Main
+   git add .
+   git commit -m "ReactEpisode1"
+   git remote add origin https://github.com/TejashriPitke/React-Learning.git
+   git push origin Main    (Push to your local branch)
+
+   Github URL : https://github.com/TejashriPitke/React-Learning
